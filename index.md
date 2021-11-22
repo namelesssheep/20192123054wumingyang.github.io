@@ -48,5 +48,10 @@
 
 ![tu10](https://github.com/namelesssheep/picture/blob/main/11.PNG)
 
+***4.仓库的文件下载***
+
+一步先在GitHub上找到你要下载的东西，第二步就是下载东西,在左上方search处搜索自己要下的东西点击download就可以了
+
+
 
 
