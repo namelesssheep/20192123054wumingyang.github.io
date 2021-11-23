@@ -2,7 +2,8 @@
 ###### github的注册
 ***1.如何打开github***
 在浏览器搜索github或者直接输入https://github.com/进入官网
-进入之后会显示这个画面![1](https://github.com/namelesssheep/picture/blob/main/%E6%8D%95%E8%8E%B72.PNG)
+进入之后会显示这个画面!![捕获2](https://user-images.githubusercontent.com/94816263/142983728-d70b194f-69db-4dcf-8747-6217a39b4272.PNG)
+
 点击右上角sign up进行注册
 填写用户名注册邮箱和密码
 
