@@ -76,11 +76,13 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 
 ***3.确定用例***
 
-在本系统中,游客可以注册
+在本系统中,游客可以注册账号查看git hub主页；注册用户可以登录、注册、new、New repository (project)、Import repository、new organization、new gist、your profile、your codespaces、your gists、Your stars、already、your project、Upqrade 、your repositories、feature preview、help、settings、sign out、下载、上传、查询、修改代码、删除、搜索其他用户公开资源代码、留言、下载代码、查看库等；管理员可以维护数据库、用户管理等；github数据库系统可以存储用户数据等。
 
+![确定参与者](https://user-images.githubusercontent.com/94816263/142986607-ff57f968-06cf-4fa1-9e1a-c49dd42a401c.jpg)
 
+![确定用例](https://user-images.githubusercontent.com/94816263/142986634-5ca46ebb-09b8-4b83-ac1f-7daa100c118d.jpg)
 
-
+![系统最终用例图](https://user-images.githubusercontent.com/94816263/142986643-d9237e8f-ebdc-4299-80c8-4405ef403a84.png)
 
 
 
