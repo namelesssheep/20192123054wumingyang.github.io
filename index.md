@@ -7,6 +7,8 @@
 点击右上角sign up进行注册
 填写用户名注册邮箱和密码
 
+![捕获3](https://user-images.githubusercontent.com/94816263/142984313-a2b4d759-4967-4c0b-b2c1-646dd0d366ab.PNG)
+
 ![捕获2](https://user-images.githubusercontent.com/94816263/142983880-355bc6a9-f2f3-4de3-a340-9fcde68481ef.PNG)
 
 **昵称:昵称要合法且没有被他人使用过,如果被使用过会出现Username is already taken.只能换一个昵称注册,昵称只能出现字母、数字、短横线，不能使用下划线。并且开头也不能使用短横线(-).也不能使用中文昵称.**
