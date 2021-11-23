@@ -84,6 +84,13 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 
 ![系统最终用例图](https://user-images.githubusercontent.com/94816263/142986643-d9237e8f-ebdc-4299-80c8-4405ef403a84.png)
 
+***用例图说明（部分）***
+
+![@9T~(G1832UR_B%U$PTG6WV](https://user-images.githubusercontent.com/94816263/142987943-9740333c-3016-41c6-903d-4f6071f62653.jpg)
+![`A80 E494V68V`S 2D Q{C2](https://user-images.githubusercontent.com/94816263/142987956-de69c603-dd83-4834-9a81-cbb600de7859.jpg)
+![JMT3L B`010Z7U{KS9L4TK8](https://user-images.githubusercontent.com/94816263/142988084-bfa795a2-4016-4ccd-8147-0799aed2bccb.jpg)
+
+
 # 遇到了一个大问题
 
 ***图片上传了在网页打开时无法显示***
